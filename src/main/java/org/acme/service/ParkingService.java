@@ -19,7 +19,6 @@ import java.util.List;
 
 
 @Path("parking")
-@Authenticated
 @ApplicationScoped
 @Produces("application/json")
 @Consumes("application/json")
